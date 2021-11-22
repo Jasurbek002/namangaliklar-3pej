@@ -1,0 +1,233 @@
+*{
+margin: 0;
+padding: 0;
+}
+.continer{
+   
+    display: flex;
+   
+   
+    /* width: 1500px; */
+}
+.baza{
+    margin: 0 auto;
+    max-width: 1400px;
+  
+}
+.continer h1{
+    margin: 7px 0px 0px 0px;
+    padding: 0px;
+
+}
+.menu{
+    
+    display: flex;
+    padding: 20px 687px 25px 25px;
+   
+    
+}
+.menu span{
+   margin: 0px 0px 0px 10px;
+}
+.btn img{
+    border-radius: 5px;
+}
+.navbar img{
+width: 20%;
+height: 30px;
+margin: 18px;
+}
+.cover{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    margin: 60px 0px 0px 0px;
+ 
+}
+.cover h3{
+    margin: 20px 0px 0px 70px;
+}
+.bar{
+    width: 100;
+    height: 99px;
+}
+.bar img{
+    width: 100%;
+    height: 80px;
+}
+.fid{
+    width: 19%;
+    height: 15px;
+  }
+.fid h2{
+    margin: 30px 0px 0px 90px;
+}
+.time{
+    display: flex;
+}
+
+.my-form{
+    display: block;
+    flex-direction: column;
+    align-items: flex-start;
+ }
+  .box{
+      width: 600px;
+      height: 50px;
+      margin: 20px 0px 5px 90px;
+      border-radius: 5px;
+      
+  } 
+  .bos{
+      width: 600px;
+      height: 307px;
+      margin: 25px 0px 20px 90px;
+      border-radius: 5px;
+  }
+  .oxrgi{
+      display: flex;
+      width: 100%;
+      height: 52px;
+     
+  }
+  .oxrgi h3{
+      margin: 20px 0px 0px 30px;
+  }
+      
+ 
+  .gif{
+      width: 221px;
+      height: 50px;
+      border-radius: 5px;
+      margin: 0px 0px 20px 90px;
+  }
+  .item{
+     
+      width: 510px;
+      height: 280px;
+      border: 1px solid black;
+      border-radius: 5px;
+     
+     
+      margin:20px 0px 0px 100px  ;
+  }
+  .veb{
+      width: 510px;
+      height: 40px;
+      margin: 15px 0px 0px 0px;
+     
+ }
+ .veb h2{
+     margin: 0px 10px 5px 225px;
+ }
+ .div{
+     display: flex;
+     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+ }
+ .hed{
+     width: 50%;
+     height: 225px;
+  
+     text-decoration: none;
+ }
+ .hed h5{
+     margin: 30px 0px 0px 30px;
+     text-decoration: none;
+    
+ }
+ .h5, a{
+     text-decoration: none;
+     
+ }
+ .silka img{
+     margin: 30px 0px 0px 18px;
+ }
+ .fed{
+     width: 200px;
+     height: 50px;
+     background-color: rgba(41, 80, 147, 1);
+     border-radius: 8%;
+     border: 2px rgb(11, 11, 82) ;
+     margin: 20px 0px 20px 90px ;
+ }
+ .fed h3{
+  margin: 20px 40px;
+ }
+ .futer{
+   
+    width: 100%;
+    height: 330px;
+    margin: 50px 0px 0px 0px;
+    background-color: rgba(41, 80, 147, 1);
+}
+.fadbac{
+    background-color: rgba(41, 80, 147, 1);
+    width: 100%;
+    height: 50px;
+    display: flex;
+}
+.med{
+    width: 17%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgba(41, 80, 147, 1);
+    margin: 15px 0px 0px 20px;
+}
+.futer h3{
+    margin: 5px 0px 5px 25px;
+}
+.futer h5{
+    margin: 25px 0px 20px 200px
+}
+.medk{
+    background-color: rgba(41, 80, 147, 1);
+    width: 12%;
+    height: 30px;
+    border-radius: 5px;
+    margin: 15px 0px 15px 250px;
+}
+.medik2{
+    background-color: rgba(41, 80, 147, 1);
+}
+.medk2 img{
+    width: 900px;
+    height: 5px;
+}
+.oxiri{
+    background-color: rgba(41, 80, 147, 1);
+    display: flex;
+}
+.tean{
+    background-color: rgba(41, 80, 147, 1);
+    display: inline-block;
+    width: 40%;
+    height: 280px;
+   
+}
+.tean h4{
+    margin: 15px 0px 0px 100px;
+}
+.tean h5{
+    margin: 20px 100px 0px 100px;
+}
+.tean2{
+    background-color: rgba(41, 80, 147, 1);
+    width: 20%;
+    height: 280px;
+  
+}
+.tean2 h4{
+    margin: 20px 100px 30px 100px;
+    padding: 20px;
+}
+.tean3{
+    background-color: rgba(41, 80, 147, 1);
+    width: 40%;
+    height: 280px;
+}
+.tean3 h4{
+    margin: 25px;
+}
+
+
+
